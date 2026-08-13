@@ -1,0 +1,36 @@
+name: timer_app
+description: A dilation session timer app.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sounds/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/wathana-icon.png"
+
+  web:
+    generate: true
+    image_path: "assets/icons/wathana-icon.png"
+    background_color: "#FFFFFF"
+    theme_color: "#FFFFFF"

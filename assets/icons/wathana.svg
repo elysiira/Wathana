@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Center Petal -->
+  <path
+    d="
+      M250 374
+      C142 322 114 230 250 126
+      C386 230 358 322 250 374Z"
+    fill="#ff8fbe"
+  />
+
+  <!-- Left Petal -->
+  <path
+    d="
+      M250 374
+      C114 330 54 246 110 170
+      C198 210 246 286 250 374Z"
+    fill="#d17de5"
+  />
+
+  <!-- Right Petal -->
+  <path
+    d="
+      M250 374
+      C386 330 446 246 390 170
+      C302 210 254 286 250 374Z"
+    fill="#d17de5"
+  />
+</svg>
