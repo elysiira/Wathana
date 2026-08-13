@@ -1,6 +1,13 @@
-# Wathana
+<div align="center">
 
-Cross-platform timer app for stretching exercises
+<p>
+  <img src="assets/images/wathana-title.png" alt="Wathana" width="1400" align="middle">
+  <br/>
+  <i>Cross-platform timer app for stretching exercises</i>
+</p>
+
+</div>
+
 
 ## Setup
 
